@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">魔法地圖</string>
+    <string name="label_select">地圖功能</string>
+
+    <string name="action_settings">設定</string>
+    <string name="loginTitle">魔法地圖</string>
+    <string name="loginNickName">使用者暱稱：</string>
+    <string name="loginEdt">輸入你的暱稱</string>
+    <string name="loginLogin">登入</string>
+
+    <string name="select_txv_friend">好友清單</string>
+    <string name="select_txv_activity">活動清單</string>
+    <string name="select_btn_friend">好友</string>
+    <string name="select_btn_activity">活動</string>
+
+    <string name="friendlist_txv_title">好友</string>
+    <string name="friendlist_dialog_title">好友資訊</string>
+
+    <string name="activity_btn_addActivity">建立活動</string>
+    <string name="activity_text_noActivity">尚無活動唷！</string>
+
+    <string name="mapSelect_text_next">下一步</string>
+    <string name="mapSelect_text_wrong">尚未點選活動地點</string>
+
+    <string name="title_activity_maps">地圖</string>
+
+    <string name="activity_title_text_activityName">活動名稱</string>
+    <string name="activity_title_text_wrong">請輸入活動名稱</string>
+</resources>
