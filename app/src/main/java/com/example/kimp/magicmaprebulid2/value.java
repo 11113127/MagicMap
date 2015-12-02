@@ -6,6 +6,6 @@ package com.example.kimp.magicmaprebulid2;
 public class value {
     public static String name ="";
     public static String simid ="";
-    public static String service ="http://localhost/magicmap_service/";
+    public static String service ="http://apps.csie.stu.edu.tw/~s11113127/magicmap_service/";
 }
 
